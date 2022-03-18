@@ -8,5 +8,5 @@ printtxt:
   inc bx
   jmp printtxt
 txt:
-  db "This is a basicOS"
+  db "This is a helloOS"
 end:
